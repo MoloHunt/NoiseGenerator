@@ -16,19 +16,19 @@ Neon (for when you want to rave)
 
 #Instruction
 
-1. The initial seed is set from the clock, you can use this or you can set one yourself
+(1) The initial seed is set from the clock, you can use this or you can set one yourself
 
-2. Then you can change the number of octaves used (more octaves smoother generation)
+(2) Then you can change the number of octaves used (more octaves smoother generation)
 
 ![alt-tag](https://github.com/MoloHunt/NoiseGenerator/blob/master/Images/OctaveExample.png)
 
-3. And the persistance value (more persistance more variety)
+(3) And the persistance value (more persistance more variety)
 
 ![alt-tag](https://github.com/MoloHunt/NoiseGenerator/blob/master/Images/PersistanceExample.png)
 
-4. You can then use the drop down to select the render mode
+(4) You can then use the drop down to select the render mode
 
-5. Then press the button to render the noise map
+(5) Then press the button to render the noise map
 
 #Saving
 
