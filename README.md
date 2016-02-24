@@ -35,3 +35,5 @@ Neon (for when you want to rave)
 #Saving
 
 Select the save from the drop down menu and then follow the dialog to save your image
+
+![alt-tag](https://github.com/MoloHunt/NoiseGenerator/blob/master/Images/HowToSaveALife.png)
