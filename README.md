@@ -4,9 +4,15 @@ Program to Generate Noise
 
 Displays the noise as a grayscale (traditional)
 
+![alt-tag](NoiseGenerator/NoiseMap.png)
+
 Terrain (made to look like a top down map of sorts)
 
+![alt-tag](NoiseGenerator/TerrainMap.png)
+
 Neon (for when you want to rave)
+
+![alt-tag](NoiseGenerator/NeonMap.png)
 
 #Instruction
 
