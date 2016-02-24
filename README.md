@@ -8,11 +8,11 @@ Displays the noise as a grayscale (traditional)
 
 Terrain (made to look like a top down map of sorts)
 
-![alt-tag](NoiseGenerator/TerrainMap.png)
+![alt-tag](https://github.com/MoloHunt/NoiseGenerator/blob/master/Images/TerrainMap.png)
 
 Neon (for when you want to rave)
 
-![alt-tag](NoiseGenerator/NeonMap.png)
+![alt-tag](https://github.com/MoloHunt/NoiseGenerator/blob/master/Images/NeonMap.png)
 
 #Instruction
 
