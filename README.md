@@ -4,7 +4,7 @@ Program to Generate Noise
 
 Displays the noise as a grayscale (traditional)
 
-![alt-tag](NoiseGenerator/NoiseMap.png)
+![alt-tag](https://github.com/MoloHunt/NoiseGenerator/blob/master/Images/NoiseMap.png)
 
 Terrain (made to look like a top down map of sorts)
 
