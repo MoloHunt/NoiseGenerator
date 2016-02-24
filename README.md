@@ -16,7 +16,7 @@ Neon (for when you want to rave)
 
 #Instruction
 
-1[alt-tag](https://github.com/MoloHunt/NoiseGenerator/blob/master/Images/Instructions.png)
+![alt-tag](https://github.com/MoloHunt/NoiseGenerator/blob/master/Images/Instructions.png)
 
 (1) The initial seed is set from the clock, you can use this or you can set one yourself
 
